@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">Logic Maker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_logicmaker">Logic Maker</string>
+    <string-array name="blocktypes">
+        <item></item>
+        <item>register</item>
+        <item>flag</item>
+        <item>register file</item>
+ 		<item>lookup table</item>
+ 		<item>input pin</item>
+ 		<item>output pin</item>
+ 		<item>label</item>
+ 		<item>multiplexor</item>
+ 		<item>decoder</item>
+ 		<item>splitter</item>
+ 		<item>joiner</item>
+ 		<item>constant</item>
+ 		<item>extender</item>
+ 		<item>adder</item>
+ 		<item>negate</item>
+ 		<item>increment</item>
+ 		<item>decrement</item>
+ 		<item>and</item>
+ 		<item>or</item>
+ 		<item>nand</item>
+ 		<item>nor</item>
+ 		<item>not</item>
+ 		<item>xor</item>
+ 		<item>equal-to</item>
+ 		<item>less-than</item>
+ 		<item>shift-left</item>
+ 		<item>shift-right</item>
+    </string-array>
+
+</resources>

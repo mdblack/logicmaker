@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Exit" android:title="Exit" android:visible="true" android:enabled="true" android:menuCategory="system"></item>
+    <item android:id="@+id/Help" android:title="Help" android:visible="true" android:enabled="true" android:menuCategory="system"></item>
+    
+</menu>
